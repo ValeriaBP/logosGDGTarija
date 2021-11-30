@@ -1,0 +1,2 @@
+# logosGDGTarija
+proyecto del curso
