@@ -5,3 +5,5 @@ Si estás usando git bash puedes ejectuar cd ~/Escritorio O si lo tienes en ingl
 practicando commits
 
 Realizando mejoras en las notas
+haciendo pruebas con la rama pruebas
+1 2 3
