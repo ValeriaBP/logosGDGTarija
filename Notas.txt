@@ -1,0 +1,3 @@
+2.2.:
+Ese error te aparece ya que no estás colocando la ruta correctamente. 
+Si estás usando git bash puedes ejectuar cd ~/Escritorio O si lo tienes en inglés cd ~/Desktop
